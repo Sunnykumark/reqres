@@ -2,7 +2,7 @@
     "name": "sunnykk/reqres",
     "description": "package that provides a service for retrieving users via a remote API",
     "type": "n",
-    "license": "n",
+    "license": "MIT",
     "autoload": {
         "psr-0": {
             "reqres": "src/"
@@ -11,7 +11,8 @@
     "authors": [
         {
             "name": "Sunny kumar",
-            "email": "Sunnykumark@gmailcom"
+            "email": "shiv.trickywebsolutions@gmail.com
+"
         }
     ],
     "minimum-stability": "dev",

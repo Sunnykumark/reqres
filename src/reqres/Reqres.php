@@ -2,10 +2,6 @@
 namespace reqres;
 class Reqres
 {
-    public  function world()
-    {
-        return 'Hello World, Composer!';
-    }
 #------------------Get User By ID---------------------------
 public  function GetUserById($userid)
     {

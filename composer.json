@@ -1,6 +1,6 @@
 {
-    "name": "yourname/hello",
-    "description": "My first Composer project",
+    "name": "reqres",
+    "description": "package that provides a service for retrieving users via a remote API",
     "type": "n",
     "license": "n",
     "autoload": {
@@ -10,8 +10,8 @@
     },
     "authors": [
         {
-            "name": "Junior Grossi",
-            "email": "me@juniorgrossi.com"
+            "name": "Sunny kumar",
+            "email": "Sunnykumark@gmailcom"
         }
     ],
     "minimum-stability": "dev",

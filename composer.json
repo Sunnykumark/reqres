@@ -1,5 +1,5 @@
 {
-    "name": "reqres",
+    "name": "sunny/reqres",
     "description": "package that provides a service for retrieving users via a remote API",
     "type": "n",
     "license": "n",

@@ -26,4 +26,5 @@ public  function PaginatedListOfUsers ()
         return  $result;
     }
 #---------------------End------------------------------------
+}
 ?>

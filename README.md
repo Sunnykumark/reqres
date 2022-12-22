@@ -29,3 +29,4 @@ echo $getuserbyID =  $Reqres->GetUserById(2);
 
 echo $getuserbyID =  $Reqres->PaginatedListOfUsers();
 
+You can check the index file , Where I have added the same code to show the json result :

@@ -1,0 +1,19 @@
+{
+    "name": "yourname/hello",
+    "description": "My first Composer project",
+    "type": "n",
+    "license": "n",
+    "autoload": {
+        "psr-0": {
+            "reqres": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Junior Grossi",
+            "email": "me@juniorgrossi.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
